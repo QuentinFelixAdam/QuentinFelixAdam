@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuentinFelixAdam
 - 👀 I’m interested in thermo-viscoelasticity applied to various materials and High Performance Computing
-- 🌱 I’m currently studying a PhD @ the Technical University of Denmark (DTU)
+- 🌱 I’m currently writing a PhD thesis @ the Technical University of Denmark (DTU)
 - 📫 How to reach me: email me!
 
 <!---
