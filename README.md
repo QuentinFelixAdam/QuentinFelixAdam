@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuentinFelixAdam
 - 👀 I’m interested in thermo-viscoelasticity applied to various materials and High Performance Computing
-- 🌱 I’m currently writing a PhD thesis @ the Technical University of Denmark (DTU)
+- 🌱 I’m currently writing a Postdoctoral researcher at Université Laval, Quebec City, Canada. I am an upcoming Postdoctoral researcher at Cambridge University, UK.
 - 📫 How to reach me: email me!
 
 <!---
